@@ -1,0 +1,25 @@
+/* Global styles */
+
+/* Your existing global styles... */
+
+/* Custom styles */
+
+.welcome-section {
+    background-color: #f8f9fa;
+  }
+  
+  .shop-name {
+    font-size: 3rem;
+    margin-top: 20px;
+    color: #3498db;
+  }
+  
+  .product-card {
+    transition: transform 0.3s, box-shadow 0.3s;
+  }
+  
+  .product-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
